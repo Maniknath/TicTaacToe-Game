@@ -74,7 +74,7 @@ namespace TicTaacToe
 
 
                     }
-                    else if (turns == 10)
+                    else if (turns == 9)
                     {
                         Console.WriteLine("Oh Crap! It is draw");
                         Console.WriteLine("Please press any key to reset the game!");
@@ -126,6 +126,13 @@ namespace TicTaacToe
 
                 } while (!inputCorrect);
                 #endregion
+
+                //Console.WriteLine("Do you want to play continue? Y/N");
+                //bool answer = true;
+                //if(answer == "yes" || answer == "y")
+                //{
+                //    continue;
+                //}
 
             } while (true);
 
