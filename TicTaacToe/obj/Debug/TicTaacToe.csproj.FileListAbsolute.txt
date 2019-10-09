@@ -1,0 +1,6 @@
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\bin\Debug\TicTaacToe.exe.config
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\bin\Debug\TicTaacToe.exe
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\bin\Debug\TicTaacToe.pdb
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\obj\Debug\TicTaacToe.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\obj\Debug\TicTaacToe.exe
+C:\Users\manik\OneDrive\Desktop\C# Programing\TicTaacToe\TicTaacToe\obj\Debug\TicTaacToe.pdb
